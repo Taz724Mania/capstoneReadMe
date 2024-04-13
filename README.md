@@ -37,7 +37,19 @@
 
 ## Tree
 ![Tree](./images/Tree.png)
+
+----------------------------------------------------
+
 ![UserAuth](./images/UserLogInandCreate.png)
+
+----------------------------------------------------
+
 ![NewAccount](./images/NewAccountCreation.png)
+
+----------------------------------------------------
+
 ![Index](./images/Index.png)
+
+----------------------------------------------------
+
 ![Show](./images/Show.png)
