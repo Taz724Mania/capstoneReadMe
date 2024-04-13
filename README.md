@@ -39,17 +39,17 @@
 ![Tree](./images/Tree.png)
 
 ----------------------------------------------------
-
+# User Auth
 ![UserAuth](./images/UserLogInandCreate.png)
 
 ----------------------------------------------------
-
+# New Account
 ![NewAccount](./images/NewAccountCreation.png)
 
 ----------------------------------------------------
-
+# Index
 ![Index](./images/Index.png)
 
 ----------------------------------------------------
-
+# Show
 ![Show](./images/Show.png)
