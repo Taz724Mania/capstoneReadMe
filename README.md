@@ -12,9 +12,15 @@
 - Axios
 - Vuex (maybe)
 - Vuelidate (maybe)
-- JavaScript w/ Node.js
-- MongoDB
-- Mongoose
+- Python
+- Django
+- Django Rest Framework
+- dj_database_url
+- environ
+- os
+- psycopg2-binary
+- gunicorn
+
 
 ## ERD
 ![Schema](./images/CapERD.png)
